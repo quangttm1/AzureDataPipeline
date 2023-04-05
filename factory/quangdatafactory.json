@@ -1,0 +1,9 @@
+{
+	"name": "quangdatafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9b74651-fa6f-4f41-b766-4473c5b1761e",
+		"tenantId": "2dff09ac-2b3b-4182-9953-2b548e0d0b39"
+	}
+}
