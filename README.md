@@ -1,3 +1,7 @@
+Minh Quang
+
+Project 5: Data Integration Pipelines for NYC Payroll Data Analytics.
+
 Project Introduction
 
 The City of New York would like to develop a Data Analytics platform on Azure Synapse Analytics to accomplish two primary objectives:
